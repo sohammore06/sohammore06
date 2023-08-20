@@ -13,7 +13,7 @@
 <div align="left">
   <a href="sohammore2372@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100" height="40" alt="gmail logo"  />
-  </a> <br>
+  </a>
   <a href="https://www.linkedin.com/in/soham-shankar-more/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="130" height="40" alt="linkedin logo"  />
   </a>

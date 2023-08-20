@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning to be a better Programmer.<br>🎯 Goals: A Better Tomorrow.</p>
+<p align="left">✨📚 I'm currently learning to be a better Programmer.<br>🎯 Goals: A Better Tomorrow.</p>
 
 ###
 

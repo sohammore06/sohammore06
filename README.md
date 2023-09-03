@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">😄 My name is Soham More and I'm a Full Stack Developer, from Pune, India.</h2>
+<h2 align="left">😄 My name is Soham More and I'm a Full Stack Developer from Pune, India.</h2>
 
 ###
 

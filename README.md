@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">🎓 I hold a Masters Degree in Computer Applications from VCACS, Pune.<br><br>🌱 I'm on a dedicated journey to continuously learn and master new technologies, refining and expanding my skill set.<br><br>💼 Currently, I serve as a Full Stack Developer at FacTech, Delhi. Here, I play a pivotal role in enhancing and innovating our products, while also diving into creative problem-solving. My tech toolkit includes HTML, CSS, JS, AngularJS, MySQL, PHP, Neo4j, and more.<br><br>🚀 I'm open to collaboration and networking opportunities, so feel free to reach out!<br><br>⚡️ I'm excited to collaborate and bring forth something remarkable together !</h3>
+<h3 align="left">🎓 I hold a Masters Degree in Computer Applications from VCACS, Pune.<br><br>🌱 I'm on a dedicated journey to continuously learn and master new technologies, refining and expanding my skill set.<br><br>💼 Currently, working as a Full Stack Developer @Intellify Solutions, pvt. ltd. <br>🚀 I'm open to collaboration and networking opportunities, so feel free to reach out!<br><br>⚡️ Excited to collaborate and bring forth something remarkable together !</h3>
 
 ###
 

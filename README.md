@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">🎓 I hold a Masters Degree in Computer Applications from VCACS, Pune.<br><br>🌱 I'm on a dedicated journey to continuously learn and master new technologies, refining and expanding my skill set.<br><br>💼 Currently, working as a Full Stack Developer @Intellify Solutions, pvt. ltd. <br>🚀 I'm open to collaboration and networking opportunities, so feel free to reach out!<br><br>⚡️ Excited to collaborate and bring forth something remarkable together !</h3>
+<h3 align="left">🎓 I hold a Masters Degree in Computer Applications from VCACS, Pune.<br><br>🌱 I'm on a dedicated journey to continuously learn and master new technologies, refining and expanding my skill set.<br><br>💼 Currently, working as a Full Stack Developer @Intellify Solutions, pvt. ltd. <br><br>🚀 I'm open to collaboration and networking opportunities, so feel free to reach out!<br><br>⚡️ Excited to collaborate and bring forth something remarkable together !</h3>
 
 ###
 
